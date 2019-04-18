@@ -1,0 +1,105 @@
+.light{
+  --colorAccent:#0078D7;
+  --colorPrimary:#F2F2F2;
+  --windowBackground:#FFF;
+  --textColor:#000;
+  --textColorSecondary:#808080;
+  --innerColor:#F2F2F2;
+  --frameColor:#CCC;
+  --secondFrameColor:#7A7A7A;
+  --elementColor:#CCC;
+}
+.dark{
+  --colorAccent:#0078D7;
+  --colorPrimary:#171717;
+  --windowBackground:#000;
+  --textColor:#fff;
+  --textColorSecondary:#808080;
+  --innerColor:#2B2B2B;
+  --frameColor:#767676;
+  --secondFrameColor:#858585;
+  --elementColor:#2B2B2B;
+}
+html{
+  background:var(--windowBackground);
+  color:var(--textColor);
+  font:15px Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body{
+  margin:0;
+}
+.header{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  height:56px;
+  padding:0 14.5px 0;
+  background:var(--colorPrimary);
+  overflow:hidden;
+  z-index:50;
+}
+.header *{
+  font-weight:bold;
+}
+.content{
+  margin:56px auto;
+  padding:14.5px;
+  max-width:720px;
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight:normal;
+}
+a{
+  color:var(--colorAccent);
+  text-decoration:none;
+}
+a:hover{
+  color:var(--textColorSecondary);
+}
+button,input,select,textarea{
+  display:inline-block;
+  margin:0 0 10px;
+  outline:0;
+  border:2px solid var(--elementColor);
+  color:var(--textColor);
+}
+button,input[type=button],input[type=submit],input[type=reset]{
+  vertical-align:middle;
+  background:var(--elementColor);
+  cursor:pointer;
+  line-height:28px;
+  padding:0 16px;
+}
+button:hover,input[type=button]:hover,input[type=submit]:hover,input[type=reset]:hover{
+  border:2px solid var(--secondFrameColor);
+}
+input[type=text],select,textarea{
+  padding:6px 3px;
+  width:20em;
+  max-width:100%;
+  background:var(--windowBackground);
+}
+input[type=text]:focus,select:focus,textarea:focus{
+  background:#fff;
+  color:#000;
+  border:2px solid var(--colorAccent);
+}
+input[type="checkbox"] {
+  display:none;
+}
+input[type="checkbox"]+label::before {
+  width:14px;
+  height:14px;
+  border:2px solid var(--textColor);
+  display:block;
+  content:"";
+  float:left;
+  margin-right:5px;
+}
+input[type="checkbox"]:checked+label::before {
+  background:var(--colorAccent) url(./check.svg);
+  background-size:18px 18px;
+  background-position:-2px -2px; 
+  border:2px solid var(--colorAccent);
+}

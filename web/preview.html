@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" class="light">
+  <head>
+    <title>Design Preview</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="./doorstheme.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header class="header">
+      <h3>Design Preview</h3>
+    </header>
+    <main class="content">
+      <h2>This site is a preview of our design language</h2>
+      <p>
+        This site shows what our design system looks like and how you can use it.
+        This is the web version but we have a version for android apps too.
+        Just look at the source code of this site or try using the design by yourself by downloading the necessary files from GitHub.
+        This is a paragraph to show you what a lot of text would look like.
+      </p>
+      <button onclick="applyLight()">Light theme</button>
+      <button onclick="applyDark()">Dark theme</button>
+      
+      <h2>Elements</h2>
+      <a href="">This is a link</a><br><br>
+      <button>This is a button</button><br><br>
+      <input type="text" placeholder="This is an input field"><br><br>
+      <input type="submit"> This is a submit button</input><br><br>
+      <input id="checkbox1" type="checkbox"><label for="checkbox1">This is a checkbox</label><br>
+      <input id="checkbox2" type="checkbox" checked><label for="checkbox2">This is a checked checkbox</label><br><br>
+      <select>
+        <option value="1">Item 1</option>
+        <option value="2">Item 2</option>
+        <option value="3">Item 3</option>
+        <option value="4">Item 4</option>
+      </select><br><br>
+      <textarea rows="4" cols="50">This is a multi-line text input.</textarea>
+    </main>
+  </body>
+  <script>
+    function applyLight(){
+      document.documentElement.classList.remove('dark');
+      document.documentElement.classList.add('light');
+      console.log('Changed to light theme');
+    }
+    function applyDark(){
+      document.documentElement.classList.remove('light');
+      document.documentElement.classList.add('dark');
+      console.log('Changed to dark theme');
+    }
+  </script>
+</html>
