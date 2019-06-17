@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- light styles -->
+    <style name="DoorsTheme.Light.DialogTheme.yellow_gold" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+    <item name="colorAccent">@color/DoorsTheme.yellow_gold</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.gold" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gold</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.orange_bright" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orange_bright</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.orange_dark" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orange_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.rust" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.rust</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.pale_rust" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.pale_rust</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.brick_red" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.brick_red</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.mod_red" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.mod_red</item>
+    </style>
+
+    <style name="DoorsTheme.Light.DialogTheme.pale_red" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.pale_red</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.red" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.red</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.rose_bright" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.rose_bright</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.rose" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.rose</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.plum_light" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.plum_light</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.plum" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.plum</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.orchid_light" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orchid_light</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.orchid" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orchid</item>
+    </style>
+
+    <style name="DoorsTheme.Light.DialogTheme.default_blue" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.default_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.navy_blue" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.navy_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.purple_shadow" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.purple_shadow_dark" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.iris_pastel" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.iris_pastel</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.iris_spring" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.iris_spring</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.violet_red_light" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.violet_red_light</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.violet_red" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.violet_red</item>
+    </style>
+
+    <style name="DoorsTheme.Light.DialogTheme.cool_blue_bright" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue_bright</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.cool_blue" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.seafoam" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.seafoam</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.seafoam_teal" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.seafoam_teal</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.mint_light" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.mint_light</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.mint_dark" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.mint_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.turf_green" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.turf_green</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.sport_green" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.sport_green</item>
+    </style>
+
+    <style name="DoorsTheme.Light.DialogTheme.gray" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gray</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.gray_brown" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gray_brown</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.steel_blue" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.steel_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.metal_blue" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.metal_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.pale_moss" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.pale_moss</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.moss" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.moss</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.meadow_green" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.meadow_green</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.green" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.green</item>
+    </style>
+
+    <style name="DoorsTheme.Light.DialogTheme.overcast" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.overcast</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.storm" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.storm</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.blue_gray" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.blue_gray</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.gray_dark" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gray_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.liddy_green" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.liddy_green</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.sage" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.sage</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.camouflage_desert" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.camouflage_desert</item>
+    </style>
+    <style name="DoorsTheme.Light.DialogTheme.camouflage" parent="DoorsTheme.Light.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.camouflage</item>
+    </style>
+
+    <!-- dark styles -->
+    <style name="DoorsTheme.Dark.DialogTheme.yellow_gold" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.yellow_gold</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.gold" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gold</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.orange_bright" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orange_bright</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.orange_dark" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orange_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.rust" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.rust</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.pale_rust" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.pale_rust</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.brick_red" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.brick_red</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.mod_red" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.mod_red</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.DialogTheme.pale_red" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.pale_red</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.red" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.red</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.rose_bright" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.rose_bright</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.rose" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.rose</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.plum_light" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.plum_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.plum" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.plum</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.orchid_light" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orchid_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.orchid" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.orchid</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.DialogTheme.default_blue" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.default_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.navy_blue" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.navy_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.purple_shadow" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.purple_shadow_dark" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.iris_pastel" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.iris_pastel</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.iris_spring" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.iris_spring</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.violet_red_light" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.violet_red_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.violet_red" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.violet_red</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.DialogTheme.cool_blue_bright" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue_bright</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.cool_blue" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.seafoam" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.seafoam</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.seafoam_teal" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.seafoam_teal</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.mint_light" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.mint_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.mint_dark" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.mint_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.turf_green" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.turf_green</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.sport_green" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.sport_green</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.DialogTheme.gray" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gray</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.gray_brown" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gray_brown</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.steel_blue" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.steel_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.metal_blue" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.metal_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.pale_moss" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.pale_moss</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.moss" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.moss</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.meadow_green" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.meadow_green</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.green" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.green</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.DialogTheme.overcast" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.overcast</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.storm" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.storm</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.blue_gray" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.blue_gray</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.gray_dark" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.gray_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.liddy_green" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.liddy_green</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.sage" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.sage</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.camouflage_desert" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.camouflage_desert</item>
+    </style>
+    <style name="DoorsTheme.Dark.DialogTheme.camouflage" parent="DoorsTheme.Dark.DialogTheme" tools:ignore="UnusedResources">
+        <item name="colorAccent">@color/DoorsTheme.camouflage</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Resources shown in the recents screen -->
+    <drawable name="DoorsTheme.recents_icon">@mipmap/ic_launcher</drawable>
+    <string name="DoorsTheme.recents_name">@string/app_name</string>
+    <!-- Icon displayed on the splash screen -->
+    <drawable name="DoorsTheme.splash_icon">@mipmap/ic_launcher_foreground</drawable>
+    <!-- Better performance. Requires an app restart to apply changes to the theme. -->
+    <bool name="DoorsTheme.lazy_loading">false</bool>
+
+</resources>

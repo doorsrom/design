@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- light styles -->
+    <style name="DoorsTheme.Light.NoActionBar.yellow_gold" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_yellow_gold">
+    <item name="colorAccent">@color/DoorsTheme.yellow_gold</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.gold" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_gold">
+        <item name="colorAccent">@color/DoorsTheme.gold</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.orange_bright" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_orange_bright">
+        <item name="colorAccent">@color/DoorsTheme.orange_bright</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.orange_dark" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_orange_dark">
+        <item name="colorAccent">@color/DoorsTheme.orange_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.rust" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_rust">
+        <item name="colorAccent">@color/DoorsTheme.rust</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.pale_rust" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_pale_rust">
+        <item name="colorAccent">@color/DoorsTheme.pale_rust</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.brick_red" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_brick_red">
+        <item name="colorAccent">@color/DoorsTheme.brick_red</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.mod_red" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_mod_red">
+        <item name="colorAccent">@color/DoorsTheme.mod_red</item>
+    </style>
+
+    <style name="DoorsTheme.Light.NoActionBar.pale_red" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_pale_red">
+        <item name="colorAccent">@color/DoorsTheme.pale_red</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.red" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_red">
+        <item name="colorAccent">@color/DoorsTheme.red</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.rose_bright" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_rose_bright">
+        <item name="colorAccent">@color/DoorsTheme.rose_bright</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.rose" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_rose">
+        <item name="colorAccent">@color/DoorsTheme.rose</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.plum_light" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_plum_light">
+        <item name="colorAccent">@color/DoorsTheme.plum_light</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.plum" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_plum">
+        <item name="colorAccent">@color/DoorsTheme.plum</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.orchid_light" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_orchid_light">
+        <item name="colorAccent">@color/DoorsTheme.orchid_light</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.orchid" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_orchid">
+        <item name="colorAccent">@color/DoorsTheme.orchid</item>
+    </style>
+
+    <style name="DoorsTheme.Light.NoActionBar.default_blue" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_default_blue">
+        <item name="colorAccent">@color/DoorsTheme.default_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.navy_blue" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_navy_blue">
+        <item name="colorAccent">@color/DoorsTheme.navy_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.purple_shadow" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_purple_shadow">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.purple_shadow_dark" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_purple_shadow_dark">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.iris_pastel" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_iris_pastel">
+        <item name="colorAccent">@color/DoorsTheme.iris_pastel</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.iris_spring" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_iris_spring">
+        <item name="colorAccent">@color/DoorsTheme.iris_spring</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.violet_red_light" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_violet_red_light">
+        <item name="colorAccent">@color/DoorsTheme.violet_red_light</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.violet_red" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_violet_red">
+        <item name="colorAccent">@color/DoorsTheme.violet_red</item>
+    </style>
+
+    <style name="DoorsTheme.Light.NoActionBar.cool_blue_bright" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_cool_blue_bright">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue_bright</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.cool_blue" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_cool_blue">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.seafoam" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_seafoam">
+        <item name="colorAccent">@color/DoorsTheme.seafoam</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.seafoam_teal" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_seafoam_teal">
+        <item name="colorAccent">@color/DoorsTheme.seafoam_teal</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.mint_light" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_mint_light">
+        <item name="colorAccent">@color/DoorsTheme.mint_light</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.mint_dark" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_mint_dark">
+        <item name="colorAccent">@color/DoorsTheme.mint_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.turf_green" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_turf_green">
+        <item name="colorAccent">@color/DoorsTheme.turf_green</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.sport_green" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_sport_green">
+        <item name="colorAccent">@color/DoorsTheme.sport_green</item>
+    </style>
+
+    <style name="DoorsTheme.Light.NoActionBar.gray" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_gray">
+        <item name="colorAccent">@color/DoorsTheme.gray</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.gray_brown" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_gray_brown">
+        <item name="colorAccent">@color/DoorsTheme.gray_brown</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.steel_blue" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_steel_blue">
+        <item name="colorAccent">@color/DoorsTheme.steel_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.metal_blue" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_metal_blue">
+        <item name="colorAccent">@color/DoorsTheme.metal_blue</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.pale_moss" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_pale_moss">
+        <item name="colorAccent">@color/DoorsTheme.pale_moss</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.moss" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_moss">
+        <item name="colorAccent">@color/DoorsTheme.moss</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.meadow_green" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_meadow_green">
+        <item name="colorAccent">@color/DoorsTheme.meadow_green</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.green" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_green">
+        <item name="colorAccent">@color/DoorsTheme.green</item>
+    </style>
+
+    <style name="DoorsTheme.Light.NoActionBar.overcast" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_overcast">
+        <item name="colorAccent">@color/DoorsTheme.overcast</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.storm" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_storm">
+        <item name="colorAccent">@color/DoorsTheme.storm</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.blue_gray" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_blue_gray">
+        <item name="colorAccent">@color/DoorsTheme.blue_gray</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.gray_dark" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_gray_dark">
+        <item name="colorAccent">@color/DoorsTheme.gray_dark</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.liddy_green" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_liddy_green">
+        <item name="colorAccent">@color/DoorsTheme.liddy_green</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.sage" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_sage">
+        <item name="colorAccent">@color/DoorsTheme.sage</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.camouflage_desert" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_camouflage_desert">
+        <item name="colorAccent">@color/DoorsTheme.camouflage_desert</item>
+    </style>
+    <style name="DoorsTheme.Light.NoActionBar.camouflage" parent="DoorsTheme.Light.NoActionBar" tools:keep="@style/DoorsTheme_Light_NoActionBar_camouflage">
+        <item name="colorAccent">@color/DoorsTheme.camouflage</item>
+    </style>
+
+    <!-- dark styles -->
+    <style name="DoorsTheme.Dark.NoActionBar.yellow_gold" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_yellow_gold">
+        <item name="colorAccent">@color/DoorsTheme.yellow_gold</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.gold" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_gold">
+        <item name="colorAccent">@color/DoorsTheme.gold</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.orange_bright" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_orange_bright">
+        <item name="colorAccent">@color/DoorsTheme.orange_bright</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.orange_dark" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_orange_dark">
+        <item name="colorAccent">@color/DoorsTheme.orange_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.rust" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_rust">
+        <item name="colorAccent">@color/DoorsTheme.rust</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.pale_rust" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_pale_rust">
+        <item name="colorAccent">@color/DoorsTheme.pale_rust</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.brick_red" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_brick_red">
+        <item name="colorAccent">@color/DoorsTheme.brick_red</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.mod_red" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_mod_red">
+        <item name="colorAccent">@color/DoorsTheme.mod_red</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.NoActionBar.pale_red" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_pale_red">
+        <item name="colorAccent">@color/DoorsTheme.pale_red</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.red" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_red">
+        <item name="colorAccent">@color/DoorsTheme.red</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.rose_bright" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_rose_bright">
+        <item name="colorAccent">@color/DoorsTheme.rose_bright</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.rose" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_rose">
+        <item name="colorAccent">@color/DoorsTheme.rose</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.plum_light" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_plum_light">
+        <item name="colorAccent">@color/DoorsTheme.plum_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.plum" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_plum">
+        <item name="colorAccent">@color/DoorsTheme.plum</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.orchid_light" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_orchid_light">
+        <item name="colorAccent">@color/DoorsTheme.orchid_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.orchid" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_orchid">
+        <item name="colorAccent">@color/DoorsTheme.orchid</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.NoActionBar.default_blue" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_default_blue">
+        <item name="colorAccent">@color/DoorsTheme.default_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.navy_blue" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_navy_blue">
+        <item name="colorAccent">@color/DoorsTheme.navy_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.purple_shadow" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_purple_shadow">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.purple_shadow_dark" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_purple_shadow_dark">
+        <item name="colorAccent">@color/DoorsTheme.purple_shadow_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.iris_pastel" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_iris_pastel">
+        <item name="colorAccent">@color/DoorsTheme.iris_pastel</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.iris_spring" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_iris_spring">
+        <item name="colorAccent">@color/DoorsTheme.iris_spring</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.violet_red_light" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_violet_red_light">
+        <item name="colorAccent">@color/DoorsTheme.violet_red_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.violet_red" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_violet_red">
+        <item name="colorAccent">@color/DoorsTheme.violet_red</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.NoActionBar.cool_blue_bright" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_cool_blue_bright">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue_bright</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.cool_blue" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_cool_blue">
+        <item name="colorAccent">@color/DoorsTheme.cool_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.seafoam" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_seafoam">
+        <item name="colorAccent">@color/DoorsTheme.seafoam</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.seafoam_teal" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_seafoam_teal">
+        <item name="colorAccent">@color/DoorsTheme.seafoam_teal</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.mint_light" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_mint_light">
+        <item name="colorAccent">@color/DoorsTheme.mint_light</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.mint_dark" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_mint_dark">
+        <item name="colorAccent">@color/DoorsTheme.mint_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.turf_green" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_turf_green">
+        <item name="colorAccent">@color/DoorsTheme.turf_green</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.sport_green" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_sport_green">
+        <item name="colorAccent">@color/DoorsTheme.sport_green</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.NoActionBar.gray" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_gray">
+        <item name="colorAccent">@color/DoorsTheme.gray</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.gray_brown" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_gray_brown">
+        <item name="colorAccent">@color/DoorsTheme.gray_brown</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.steel_blue" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_steel_blue">
+        <item name="colorAccent">@color/DoorsTheme.steel_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.metal_blue" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_metal_blue">
+        <item name="colorAccent">@color/DoorsTheme.metal_blue</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.pale_moss" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_pale_moss">
+        <item name="colorAccent">@color/DoorsTheme.pale_moss</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.moss" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_moss">
+        <item name="colorAccent">@color/DoorsTheme.moss</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.meadow_green" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_meadow_green">
+        <item name="colorAccent">@color/DoorsTheme.meadow_green</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.green" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_green">
+        <item name="colorAccent">@color/DoorsTheme.green</item>
+    </style>
+
+    <style name="DoorsTheme.Dark.NoActionBar.overcast" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_overcast">
+        <item name="colorAccent">@color/DoorsTheme.overcast</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.storm" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_storm">
+        <item name="colorAccent">@color/DoorsTheme.storm</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.blue_gray" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_blue_gray">
+        <item name="colorAccent">@color/DoorsTheme.blue_gray</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.gray_dark" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_gray_dark">
+        <item name="colorAccent">@color/DoorsTheme.gray_dark</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.liddy_green" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_liddy_green">
+        <item name="colorAccent">@color/DoorsTheme.liddy_green</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.sage" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_sage">
+        <item name="colorAccent">@color/DoorsTheme.sage</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.camouflage_desert" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_camouflage_desert">
+        <item name="colorAccent">@color/DoorsTheme.camouflage_desert</item>
+    </style>
+    <style name="DoorsTheme.Dark.NoActionBar.camouflage" parent="DoorsTheme.Dark.NoActionBar" tools:keep="@style/DoorsTheme_Dark_NoActionBar_camouflage">
+        <item name="colorAccent">@color/DoorsTheme.camouflage</item>
+    </style>
+
+</resources>
